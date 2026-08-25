@@ -1,2 +1,2 @@
-# :Preview: ttps://benscripts419.github.io/assignment-1/
+# Preview: https://benscripts419.github.io/assignment-1/
 
